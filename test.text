@@ -1,0 +1,22 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 667D-FD33
+
+ Directory of C:\Users\10\Desktop\aish pic hard copy\WindowsApp
+
+06-Jul-20  03:18 PM    <DIR>          .
+06-Jul-20  03:18 PM    <DIR>          ..
+03-Jul-20  09:51 PM             1,335 .classpath
+05-Jul-20  11:07 PM                15 .gitignore
+29-Jun-20  09:28 AM               562 .project
+21-Jun-20  05:16 PM    <DIR>          .settings
+21-Jun-20  05:15 PM    <DIR>          bin
+01-Jul-20  05:37 PM               526 debug.log
+05-Jul-20  10:35 AM             1,674 pom.xml
+03-Jul-20  02:14 PM    <DIR>          Reports
+03-Jul-20  02:17 PM    <DIR>          src
+27-Jun-20  12:06 PM    <DIR>          target
+05-Jul-20  12:45 PM    <DIR>          test-output
+06-Jul-20  03:18 PM                 0 test.text
+03-Jul-20  02:59 PM               627 testng.xml
+               7 File(s)          4,739 bytes
+               8 Dir(s)   9,524,011,008 bytes free
